@@ -1,6 +1,6 @@
 # React 快速上手 配套代码
 
-[/src/base](https://github.com/ducafecat/reactjs-example/tree/master/src/base)
+[/src/base](https://github.com/ducafecat/front-end/tree/master/src/base)
 
 # segmentfault 网址
 
